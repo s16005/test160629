@@ -1,0 +1,10 @@
+[   83.064847] usb 1-2: new low-speed USB device number 7 using xhci_hcd
+[   83.196121] usb 1-2: New USB device found, idVendor=093a, idProduct=2510
+[   83.196129] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[   83.196133] usb 1-2: Product: USB Optical Mouse
+[   83.196136] usb 1-2: Manufacturer: PixArt
+[   83.196396] usb 1-2: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[   83.380213] usbcore: registered new interface driver usbhid
+[   83.380219] usbhid: USB HID core driver
+[   83.398835] input: PixArt USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.0/0003:093A:2510.0002/input/input12
+[   83.401437] hid-generic 0003:093A:2510.0002: input,hidraw1: USB HID v1.11 Mouse [PixArt USB Optical Mouse] on usb-0000:00:14.0-2/input0
